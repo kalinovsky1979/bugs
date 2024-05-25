@@ -68,7 +68,7 @@ public class bugSettings : MonoBehaviour
 					valueType = "number",
 					values = new List<OptionValue>
 					{
-						new OptionValue{id = 1, title = "Play time", value = "90"},
+						new OptionValue{id = 1, title = "Play time", value = "90"}
 					}
 				});
 

@@ -18,6 +18,7 @@ public class playTimer : MonoBehaviour
 		var op = bugSettings.Options.options.FirstOrDefault();
 		var value = op.values.FirstOrDefault(x => x.title.Equals("Play time"));
 		timeRemaining = float.Parse(value.value);
+		UpdateTimerDisplay();
 	}
 
 	// Update is called once per frame

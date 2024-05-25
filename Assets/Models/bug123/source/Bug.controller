@@ -52,7 +52,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: "\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430|runing"
-  m_Speed: 2
+  m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []

@@ -39,7 +39,7 @@ AnimatorStateMachine:
     m_Position: {x: 250, y: 190, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -3696802839426911086}
-    m_Position: {x: 390, y: 320, z: 0}
+    m_Position: {x: 460, y: 70, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -84,7 +84,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Bugs_5
-  m_Speed: 1
+  m_Speed: 1.7
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -8576126036068876685}

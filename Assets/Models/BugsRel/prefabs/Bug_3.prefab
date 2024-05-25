@@ -10,15 +10,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 3bb6268ffdbedb14f926f3b602233b33, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3bb6268ffdbedb14f926f3b602233b33, type: 3}
       propertyPath: m_LocalScale.y
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3bb6268ffdbedb14f926f3b602233b33, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3bb6268ffdbedb14f926f3b602233b33, type: 3}
       propertyPath: m_LocalPosition.x
@@ -108,10 +108,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc7fc0515a8ef5b40b2d7759dde8d62c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  splashObj: {fileID: 7346594722559715957, guid: 485f11d681636de4caa43c6f0a2b3490, type: 3}
+  splashObj: {fileID: 8671904714794885414, guid: 2f4fa8b1419f0f148a321689ffed6fe9, type: 3}
+  Speed: 0.7
   correctingYRotation: 90
-  bugsManager: {fileID: 0}
-  areaSize: {x: 40, y: 10, z: 30}
+  yPos: 0.3
 --- !u!54 &3936351568610496104
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -158,8 +158,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.6186466, y: 0.2862668, z: 0.23027706}
-  m_Center: {x: 0.06822491, y: 0.12945509, z: 0.0035119057}
+  m_Size: {x: 0.6391107, y: 0.2862668, z: 0.2741284}
+  m_Center: {x: 0.078456976, y: 0.12945509, z: -0.0037965858}
 --- !u!114 &4657550418232955103
 MonoBehaviour:
   m_ObjectHideFlags: 0
